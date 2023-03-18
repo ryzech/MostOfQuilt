@@ -1,0 +1,13 @@
+name = "Apogee"
+filename = "apogee-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/75XwC4YV/versions/UChKBhWH/apogee-0.4.1.jar"
+hash-format = "sha1"
+hash = "4c26485d585d31d9517283c26b11139bb37d41f6"
+
+[update]
+[update.modrinth]
+mod-id = "75XwC4YV"
+version = "UChKBhWH"

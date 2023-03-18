@@ -1,0 +1,13 @@
+name = "Better Furnaces Reforged"
+filename = "BetterFurnaces-Quilt-1.19.2-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXOYCX2A/versions/hqehSq1Y/BetterFurnaces-Quilt-1.19.2-0.2.0.jar"
+hash-format = "sha1"
+hash = "cf203c5729e947ce34955cb9c6ccae8ab7ed5d2e"
+
+[update]
+[update.modrinth]
+mod-id = "ZXOYCX2A"
+version = "hqehSq1Y"

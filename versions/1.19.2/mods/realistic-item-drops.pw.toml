@@ -1,0 +1,13 @@
+name = "Realistic Item Drops"
+filename = "realistic-item-drops-2.7DP.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CZP8YYTl/versions/aAf1OBeT/realistic-item-drops-2.7DP.jar"
+hash-format = "sha1"
+hash = "3431701299f76e432dc641859c4a0e6cfaf51c33"
+
+[update]
+[update.modrinth]
+mod-id = "CZP8YYTl"
+version = "aAf1OBeT"

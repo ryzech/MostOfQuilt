@@ -1,0 +1,13 @@
+name = "Ad Astra"
+filename = "ad_astra-fabric-1.19.2-1.12.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/b6EvGqdw/ad_astra-fabric-1.19.2-1.12.5.jar"
+hash-format = "sha1"
+hash = "1524dc7094684c42619ace998160df5ca8a5adeb"
+
+[update]
+[update.modrinth]
+mod-id = "3ufwT9JF"
+version = "b6EvGqdw"

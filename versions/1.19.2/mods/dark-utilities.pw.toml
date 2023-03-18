@@ -1,0 +1,13 @@
+name = "Dark Utilities"
+filename = "DarkUtilities-Fabric-1.19.2-13.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52f5ed6204633c67b20d111f7db75e7ce195d499"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4056389
+project-id = 242195

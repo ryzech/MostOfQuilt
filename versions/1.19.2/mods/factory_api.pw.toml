@@ -1,0 +1,13 @@
+name = "Factory API"
+filename = "FactoryAPI-Quilt-1.19.2-0.1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nkTZHOLD/versions/ygDmuh4Q/FactoryAPI-Quilt-1.19.2-0.1.6.1.jar"
+hash-format = "sha1"
+hash = "b09df0e546cecab36a9dacc65a2ec7260a087c01"
+
+[update]
+[update.modrinth]
+mod-id = "nkTZHOLD"
+version = "ygDmuh4Q"
