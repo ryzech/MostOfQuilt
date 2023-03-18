@@ -9,7 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: build
-        run: export TERM=xterm && make compile
+        run: export PATH="$HOME/go/bin:$PATH" && export TERM=xterm && make compile
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
           # You don't need this section if you don't want to publish
