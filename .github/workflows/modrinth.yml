@@ -9,7 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: build
-        run: make compile
+        run: export TERM=xterm && make compile
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
           # You don't need this section if you don't want to publish
