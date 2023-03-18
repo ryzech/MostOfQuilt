@@ -9,3 +9,8 @@ update:
 	pw -b -d versions update --all
 refresh:
 	pw -b -d versions refresh
+compile:
+	make update-packwiz
+	make refresh
+	make update
+	make export

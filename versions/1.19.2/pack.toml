@@ -1,12 +1,12 @@
 name = "Most of Quilt"
 author = "RyzechDev"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0bcbf3232cca67f9d2643dbcf13f0c86075a69572818b04d82978d62b3819e26"
+hash = "edd09c7769d9c81a5437d86727d38f8e1c2cef3fc262d517e14f994c4f118256"
 
 [versions]
 minecraft = "1.19.2"

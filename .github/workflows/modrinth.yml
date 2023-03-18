@@ -1,0 +1,30 @@
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: build
+        run: make compile
+  build:
+    # ...
+    steps:
+      - uses: Kir-Antipov/mc-publish@v3.2
+        with:
+          # You don't need this section if you don't want to publish
+          # your assets to Modrinth
+          modrinth-id: 60NkCuUz
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          files-primary: versions/1.19.2/*.mrpack
+          name: Most of Quilt
+          version: 1.0.1
+          version-type: beta
+          changelog-file: changelog.md
+          loaders: |
+            quilt
+          game-versions: |
+            1.19.2
+          java: |
+            17
+          retry-attempts: 2
+          fail-mode: fail
