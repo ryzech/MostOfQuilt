@@ -20,7 +20,7 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files-primary: versions/1.19.2/*.mrpack
           name: Most of Quilt
-          version: 1.0.1
+          version: ${{ github.event.release.tag_name }}
           version-type: beta
           changelog-file: ${{ github.event.release.body }}
           loaders: |

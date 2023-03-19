@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "af67ba11d4f932858ebce14270de4b38483a419d0153158da7e2bf20ac0fe358"
+hash = "799fc8a84321683b58ace2b4ffd41f973b5d45fbce5e12b538e098cd49dbecf9"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "5bc0f8b9b78f855a8a1f2223e7c9cfd84c43635abc37752f3cd0da7301a85c6c"
+hash = "83464b23ecff9f80b5882c90bc93f10c075716df51b2cf63b425d454fba55d98"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "ee51fbc2473492627f2564474519bb847224f52131c07c707b148f6d133f220a"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
 metafile = true
 
 [[files]]
