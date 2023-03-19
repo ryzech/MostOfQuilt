@@ -22,7 +22,6 @@ jobs:
           name: Most of Quilt
           version: ${{ github.event.release.tag_name }}
           version-type: beta
-          changelog-file: CHANGELOG.md
           loaders: |
             quilt
           game-versions: |
