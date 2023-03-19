@@ -22,6 +22,7 @@ jobs:
           version: ${{ github.event.release.tag_name }}
           version-type: beta
           changelog-file: CHANGELOG.md
+          changelog: ${{ github.event.release.body }}
           loaders: quilt
           game-versions: 1.19.2
           java: 17
