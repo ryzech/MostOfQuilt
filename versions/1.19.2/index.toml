@@ -211,11 +211,6 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
-file = "mods/dark-utilities.pw.toml"
-hash = "10ae3caacc4517a54eab1d5c07bb824153557c13b8955751ce9c3ee12cbe7672"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
@@ -561,11 +556,6 @@ hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
 metafile = true
 
 [[files]]
-file = "mods/pig-pen-cipher.pw.toml"
-hash = "e45a5f9fe3d6400fb4c70a25dddb811a6ffa9566963f93a2f574e6e0c3c248c1"
-metafile = true
-
-[[files]]
 file = "mods/powah.pw.toml"
 hash = "ac6a4cf7efb81f4d8976caec374b680f69f79740cc93b5331abd35418f43299f"
 metafile = true
@@ -633,11 +623,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "eb7d098a1b5e6e0cfb014073b5b3db6330f88b593ddc81f0d6c320cfa94178b9"
-metafile = true
-
-[[files]]
-file = "mods/runelic.pw.toml"
-hash = "3742ad9dcce53945afaa0c85a58e8ebe35052395e22c3a1d53e44e7a14bfdeae"
 metafile = true
 
 [[files]]
