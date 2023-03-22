@@ -126,23 +126,8 @@ hash = "aa5edd2c0991a3e43e61bc8c20afc354c9101a328c319af6f2a7682f14764b4c"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "fa7e3e35b3bd888d3185a99d448504f345a608d77343838693804f0345c9d137"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "16147c3be6936ca0f7a10d9ed4d5f67adfdfe40c4bbae04d948d05ab378d4d07"
-metafile = true
-
-[[files]]
-file = "mods/botany-pots.pw.toml"
-hash = "144dd480759308361729274cfc28fa069db512d7a8334aefda9dee5dee9db940"
-metafile = true
-
-[[files]]
-file = "mods/botany-trees.pw.toml"
-hash = "04471b1600d05568d84534c7089f6ebb6d7fe0ca8317ceacefd52df717e1c93d"
 metafile = true
 
 [[files]]
@@ -228,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/dustrial-decor.pw.toml"
 hash = "321d91a48c60079500f68ab2741d955f5dedab4d36c904ad8f2c21dc4531682e"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -507,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
