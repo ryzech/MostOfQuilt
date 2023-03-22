@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "bd36c6d3adc1bac47d6d4294fa3f4f10d5a0f3c8f2c1b6e7e05c5d92e5048b38"
+hash = "69bc79801ac468020ff1bf3fd315d7d4d5cf15727a75c0d1b12a980a6e960c94"
 metafile = true
 
 [[files]]
@@ -88,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/auto-config-updated-api.pw.toml"
 hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "e173fa5798f81cdabe806edeaab4c8f822aa4f5942d1f2400f77a5af241ce784"
 metafile = true
 
 [[files]]
@@ -332,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "46320c5d306a208a16a95a2f74f25c23a755e22aacf501d4421cc4e7b22719b7"
+hash = "fb64485c8e978fb30e44e69be86f6d9d470d439995b230ac925e6c1c5374d8cf"
 metafile = true
 
 [[files]]
@@ -442,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "c5b466cc32146415323dc9ed49adeaff1cf61bf4fef3b081da69b4998d8527ff"
+hash = "50a59956aa65006349cda46f3fc2ce32c7e26afb1d3beb7ceff69318e065f421"
 metafile = true
 
 [[files]]
@@ -488,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
+file = "mods/niceload.pw.toml"
+hash = "9638b4d155d3af277c6475ff5dbb50b8fcdb50106f5169491cdf1d05cc3f23f1"
 metafile = true
 
 [[files]]
@@ -607,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "154c52e9ef7a0dcc25f3075cc5093c2eaf3604cb85bba25e4ca46a2b3e621d7e"
+hash = "17cf4ec0361274deb1c4cff5106ee91c5352dcb528d4432094de1799e61220d4"
 metafile = true
 
 [[files]]
@@ -642,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "d0f5aab9aeb7cc0d24ad75adfc0e256b2598df1d3107bad7aaf70bde258820ec"
+hash = "4c0ec5e24a92ccd025124f9a8226c3243adde0296327806bb9d01a9d3815b158"
 metafile = true
 
 [[files]]
